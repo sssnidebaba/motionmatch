@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f75b7a0ae06ff8e47bf72e67157906f0, type: 3}
+  m_Name: New M Weights
+  m_EditorClassIdentifier: 
+  PoseTrajectoryRatio: 0.305
+  LoopAnimFavour: 0.81
+  NextPoseFavour: 0.792
+  AngleThreshold: 10
+  AngleRiviseSpeed: 0.5
+  BodyVelocityWeight: 10
+  AngleMutiplier: 1
+  PositionMultiplier: 25
+  JointPositionWeights:
+  - 10
+  - 20
+  - 20
+  - 5
+  - 5
+  JointVelocityWeights:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  Interval: 0.03333333
+  TrajPoints:
+  - -0.3
+  - 0.3
+  - 0.6
+  - 0.9
+  Bones: 0900000005000000060000001100000012000000

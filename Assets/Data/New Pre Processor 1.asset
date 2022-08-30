@@ -1,0 +1,342 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9147b05dd66ff04449be8405afee6bc6, type: 3}
+  m_Name: New Pre Processor 1
+  m_EditorClassIdentifier: 
+  myTags:
+  - animationName: 04_RunStep_Neutral_03_MIRROR
+    intervals:
+    - {x: 1, y: 8}
+    - {x: 50.61082, y: 66.51912}
+    - {x: 46.22325, y: 49.331192}
+    - {x: 40.53069, y: 43.880146}
+    - {x: 27.458158, y: 38.415375}
+    - {x: 21.336494, y: 25.599354}
+    - {x: 13.386666, y: 19.609995}
+    - {x: 6.826667, y: 11.769996}
+    - {x: 0, y: 5.263331}
+    - {x: 0, y: 0}
+  - animationName: 04_RunStep_Neutral_03
+    intervals:
+    - {x: 1, y: 8}
+    - {x: 50.61082, y: 66.51912}
+    - {x: 46.22325, y: 49.331192}
+    - {x: 40.53069, y: 43.880146}
+    - {x: 27.458158, y: 38.415375}
+    - {x: 21.336494, y: 25.599354}
+    - {x: 13.386666, y: 19.609995}
+    - {x: 6.826667, y: 11.769996}
+    - {x: 0, y: 5.263331}
+    - {x: 0, y: 0}
+  - animationName: 14_RunStartStop_Neutral_05 [Part1]
+    intervals:
+    - {x: 1, y: 6}
+    - {x: 16.605133, y: 17.366669}
+    - {x: 13.555065, y: 15.029939}
+    - {x: 9.187542, y: 12.187479}
+    - {x: 7.126473, y: 7.947603}
+    - {x: 3.9767768, y: 5.770945}
+    - {x: 1.6282084, y: 2.6397169}
+    - {x: 0, y: 0}
+  - animationName: 14_RunStartStop_Neutral_05 [Part1]_MIRROR
+    intervals:
+    - {x: 1, y: 10}
+    - {x: 22.901049, y: 23.96667}
+    - {x: 20.0174, y: 21.43505}
+    - {x: 17.99884, y: 18.682684}
+    - {x: 15.880472, y: 16.947847}
+    - {x: 14.070565, y: 14.846021}
+    - {x: 12.348235, y: 12.860963}
+    - {x: 9.312263, y: 10.788325}
+    - {x: 4.1160784, y: 5.679717}
+    - {x: 6.8309383, y: 8.073465}
+    - {x: 2.2185953, y: 2.9648588}
+    - {x: 0, y: 0}
+  - animationName: 14_RunStartStop_Neutral_05 [Part2]
+    intervals:
+    - {x: 1, y: 6}
+    - {x: 16.605133, y: 17.366669}
+    - {x: 13.555065, y: 15.029939}
+    - {x: 9.187542, y: 12.187479}
+    - {x: 7.126473, y: 7.947603}
+    - {x: 3.9767768, y: 5.770945}
+    - {x: 1.6282084, y: 2.6397169}
+    - {x: 0, y: 0}
+  - animationName: 14_RunStartStop_Neutral_05 [Part2]_MIRROR
+    intervals:
+    - {x: 1, y: 6}
+    - {x: 16.605133, y: 17.366669}
+    - {x: 13.555065, y: 15.029939}
+    - {x: 9.187542, y: 12.187479}
+    - {x: 7.126473, y: 7.947603}
+    - {x: 3.9767768, y: 5.770945}
+    - {x: 1.6282084, y: 2.6397169}
+    - {x: 0, y: 0}
+  - animationName: 14_RunStartStop_Neutral_05 [Part3]
+    intervals:
+    - {x: 1, y: 3}
+    - {x: 3.678636, y: 4.8}
+    - {x: 1.6077955, y: 2.5587919}
+    - {x: 0, y: 0.5072478}
+    - {x: 0, y: 0}
+  - animationName: 14_RunStartStop_Neutral_05 [Part3]_MIRROR
+    intervals:
+    - {x: 1, y: 3}
+    - {x: 3.67836, y: 4.8}
+    - {x: 1.607795, y: 2.558792}
+    - {x: 0, y: 0.5072478}
+    - {x: 0, y: 0}
+  - animationName: 15_RunTurnStop_Neutral_01 [Part1]
+    intervals:
+    - {x: 1, y: 6}
+    - {x: 33.3015, y: 35.666668}
+    - {x: 25.183361, y: 31.729233}
+    - {x: 18.667898, y: 23.456774}
+    - {x: 10.834702, y: 17.234144}
+    - {x: 4.6267834, y: 9.196019}
+    - {x: 0, y: 2.6658456}
+    - {x: 0, y: 0}
+  - animationName: 15_RunTurnStop_Neutral_01 [Part1]_MIRROR
+    intervals:
+    - {x: 1, y: 6}
+    - {x: 33.3015, y: 35.666668}
+    - {x: 25.183361, y: 31.729233}
+    - {x: 18.667898, y: 23.456774}
+    - {x: 10.834702, y: 17.234144}
+    - {x: 4.6267834, y: 9.196019}
+    - {x: 0, y: 2.6658456}
+    - {x: 0, y: 0}
+  - animationName: 15_RunTurnStop_Neutral_01 [Part2]
+    intervals:
+    - {x: 1, y: 4}
+    - {x: 15.679218, y: 16.866669}
+    - {x: 9.596553, y: 14.40251}
+    - {x: 3.5865905, y: 7.8594017}
+    - {x: 1.8417627, y: 2.7218394}
+    - {x: 0, y: 0}
+  - animationName: 15_RunTurnStop_Neutral_01 [Part2]_MIRROR
+    intervals:
+    - {x: 1, y: 4}
+    - {x: 15.679218, y: 16.866669}
+    - {x: 9.596553, y: 14.40251}
+    - {x: 3.5865905, y: 7.8594017}
+    - {x: 1.8417627, y: 2.7218394}
+    - {x: 0, y: 0}
+  - animationName: 16_RunCounterStart_Neutral_02 [Part1]
+    intervals:
+    - {x: 1, y: 4}
+    - {x: 27.718182, y: 31.333336}
+    - {x: 19.488317, y: 25.203003}
+    - {x: 11.330729, y: 17.440397}
+    - {x: 1.7118117, y: 9.26992}
+    - {x: 0, y: 0}
+  - animationName: 16_RunCounterStart_Neutral_02 [Part2]
+    intervals:
+    - {x: 1, y: 4}
+    - {x: 19.38809, y: 22.833336}
+    - {x: 9.555742, y: 17.124907}
+    - {x: 3.0632346, y: 7.467363}
+    - {x: 0, y: 0.5891135}
+    - {x: 0, y: 0}
+  - animationName: 16_RunCounterStart_Neutral_02 [Part2]_MIRROR
+    intervals:
+    - {x: 1, y: 4}
+    - {x: 19.38809, y: 22.833336}
+    - {x: 9.555742, y: 17.124907}
+    - {x: 3.0632346, y: 7.467363}
+    - {x: 0, y: 0.5891135}
+    - {x: 0, y: 0}
+  - animationName: 16_RunCounterStart_Neutral_02 [Part1]_MIRROR
+    intervals:
+    - {x: 1, y: 4}
+    - {x: 27.718182, y: 31.333336}
+    - {x: 19.488317, y: 25.203003}
+    - {x: 11.330729, y: 17.440397}
+    - {x: 1.7118117, y: 9.26992}
+    - {x: 0, y: 0}
+  - animationName: 16_RunCounterStart_Neutral_02 [Part3]
+    intervals:
+    - {x: 1, y: 2}
+    - {x: 2.915751, y: 5.666667}
+    - {x: 0, y: 0.4697802}
+    - {x: 0, y: 0}
+  - animationName: 16_RunCounterStart_Neutral_02 [Part3]_MIRROR
+    intervals:
+    - {x: 1, y: 2}
+    - {x: 2.915751, y: 5.666667}
+    - {x: 0, y: 0.4697802}
+    - {x: 0, y: 0}
+  - animationName: 17_RunPlant_Neutral_05 [Part1]
+    intervals:
+    - {x: 1, y: 6}
+    - {x: 11.644678, y: 13.5}
+    - {x: 8.898682, y: 9.726799}
+    - {x: 6.7487926, y: 7.3910775}
+    - {x: 0, y: 0.25}
+    - {x: 4.245968, y: 5.040325}
+    - {x: 1.5241935, y: 2.4709709}
+    - {x: 0, y: 0}
+  - animationName: 17_RunPlant_Neutral_05 [Part1]_MIRROR
+    intervals:
+    - {x: 1, y: 6}
+    - {x: 11.644678, y: 13.5}
+    - {x: 8.898682, y: 9.726799}
+    - {x: 6.7487926, y: 7.3910775}
+    - {x: 0, y: 0.25}
+    - {x: 4.245968, y: 5.040325}
+    - {x: 1.5241935, y: 2.4709709}
+    - {x: 0, y: 0}
+  - animationName: 17_RunPlant_Neutral_05 [Part2]
+    intervals:
+    - {x: 1, y: 5}
+    - {x: 9.992485, y: 12.172501}
+    - {x: 7.7407527, y: 8.509575}
+    - {x: 5.6108418, y: 6.0268645}
+    - {x: 3.5072045, y: 4.2137656}
+    - {x: 0, y: 2.2167754}
+    - {x: 0, y: 0}
+  - animationName: 17_RunPlant_Neutral_05 [Part2]_MIRROR
+    intervals:
+    - {x: 1, y: 5}
+    - {x: 9.992485, y: 12.172501}
+    - {x: 7.7407527, y: 8.509575}
+    - {x: 5.6108418, y: 6.0268645}
+    - {x: 3.5072045, y: 4.2137656}
+    - {x: 0, y: 2.2167754}
+    - {x: 0, y: 0}
+  - animationName: 19_RunTurnContinue_Neutral_02 [Part1]
+    intervals:
+    - {x: 1, y: 4}
+    - {x: 12.19385, y: 13.8}
+    - {x: 7.94613, y: 8.285158}
+    - {x: 5.030323, y: 5.4361324}
+    - {x: 0, y: 2.259031}
+    - {x: 0, y: 0}
+  - animationName: 19_RunTurnContinue_Neutral_02 [Part1]_MIRROR
+    intervals:
+    - {x: 1, y: 4}
+    - {x: 12.19385, y: 13.8}
+    - {x: 7.94613, y: 8.285158}
+    - {x: 5.030323, y: 5.4361324}
+    - {x: 0, y: 2.259031}
+    - {x: 0, y: 0}
+  - animationName: 19_RunTurnContinue_Neutral_02 [Part2]
+    intervals:
+    - {x: 1, y: 3}
+    - {x: 9.06436, y: 10.5}
+    - {x: 6.9943547, y: 7.4137096}
+    - {x: 0, y: 1.723387}
+    - {x: 0, y: 0}
+  - animationName: 19_RunTurnContinue_Neutral_02 [Part2]_MIRROR
+    intervals:
+    - {x: 1, y: 3}
+    - {x: 9.06436, y: 10.5}
+    - {x: 6.9943547, y: 7.4137096}
+    - {x: 0, y: 1.723387}
+    - {x: 0, y: 0}
+  - animationName: 26_RunSnake_Neutral_04
+    intervals:
+    - {x: 1, y: 6}
+    - {x: 29.519789, y: 33.659893}
+    - {x: 23.339186, y: 26.398218}
+    - {x: 17.51306, y: 19.046198}
+    - {x: 10.487027, y: 13.480182}
+    - {x: 4.709452, y: 6.415974}
+    - {x: 0, y: 0.83261275}
+    - {x: 0, y: 0}
+  - animationName: 26_RunSnake_Neutral_04_MIRROR
+    intervals:
+    - {x: 1, y: 6}
+    - {x: 29.519789, y: 33.659893}
+    - {x: 23.339186, y: 26.398218}
+    - {x: 17.51306, y: 19.046198}
+    - {x: 10.487027, y: 13.480182}
+    - {x: 4.709452, y: 6.415974}
+    - {x: 0, y: 0.83261275}
+    - {x: 0, y: 0}
+  - animationName: 27_WalkRunAccelDecel_Neutral_03
+    intervals:
+    - {x: 1, y: 5}
+    - {x: 38.648186, y: 39.433334}
+    - {x: 26.920683, y: 36.026318}
+    - {x: 15.853501, y: 24.799072}
+    - {x: 3.9433336, y: 13.596665}
+    - {x: 0, y: 1.8145604}
+    - {x: 0, y: 0}
+  - animationName: 27_WalkRunAccelDecel_Neutral_03_MIRROR
+    intervals:
+    - {x: 1, y: 5}
+    - {x: 38.648186, y: 39.433334}
+    - {x: 26.920683, y: 36.026318}
+    - {x: 15.853501, y: 24.799072}
+    - {x: 3.9433336, y: 13.596665}
+    - {x: 0, y: 1.8145604}
+    - {x: 0, y: 0}
+  BlendClips: []
+  IdleClips:
+  - {fileID: 7400002, guid: d9b2ee02710f70746b6aa2acbe11a1f7, type: 3}
+  - {fileID: 7400028, guid: d9b2ee02710f70746b6aa2acbe11a1f7, type: 3}
+  LocomotionClips:
+  - {fileID: 7400026, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400000, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400038, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400002, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400042, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400004, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400044, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400006, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400046, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400008, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400048, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400010, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400050, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400016, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400012, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400052, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400040, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400014, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400054, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400018, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400056, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400020, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400058, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400022, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400060, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400024, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400062, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400028, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400064, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400030, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400066, guid: 309af69b5650d5a46989017668cf39a9, type: 3}
+  - {fileID: 7400000, guid: 2b6a530a9e6af4749a402f27e8decf49, type: 2}
+  - {fileID: 7400000, guid: bffdfa59f7bfcfd40b3f8c5ff2925440, type: 2}
+  - {fileID: 7400000, guid: b78229523e00ac54b88536bc5d250a9b, type: 2}
+  - {fileID: 7400000, guid: f5bbc79f5c526b447b111bb98ec0b897, type: 2}
+  - {fileID: 7400000, guid: 18564d90ce92d11478fee93a875366f2, type: 2}
+  - {fileID: 7400000, guid: ec38f9286804eb74cb0062fa005a8f55, type: 2}
+  - {fileID: 7400000, guid: 346bef86b2baf4241a33974ee07c5292, type: 2}
+  - {fileID: 7400000, guid: a8c8ea9f18f14da4f86377a3784bea90, type: 2}
+  - {fileID: 7400000, guid: 672c0f6199b3b4243804a40c3d5bd049, type: 2}
+  - {fileID: 7400000, guid: 6fa9390542a8bce4394b217d45614f37, type: 2}
+  - {fileID: 7400000, guid: 07d6ea722ba7b3340a4b657a0f71221a, type: 2}
+  - {fileID: 7400000, guid: 49ee2633ccdc01642ab0f18e9f33e261, type: 2}
+  - {fileID: 7400000, guid: 78ff5c4d87aad2d489dfbf1ed8d45f01, type: 2}
+  - {fileID: 7400000, guid: 9ea4324dc780827448b548e9bc951ca5, type: 2}
+  - {fileID: 7400000, guid: aa89078e7acd9bd469ac2da6c69f74ab, type: 2}
+  - {fileID: 7400000, guid: 8bfaa24a732308442bae41538576927c, type: 2}
+  - {fileID: 7400000, guid: 450aacf1e018ba848805a60de7560942, type: 2}
+  - {fileID: 7400000, guid: 86ab7e12af923d6478b428049143fd2f, type: 2}
+  - {fileID: 7400000, guid: 098f59e6cdeb0b34292699764e758106, type: 2}
+  - {fileID: 7400002, guid: d9b2ee02710f70746b6aa2acbe11a1f7, type: 3}
+  - {fileID: 7400028, guid: d9b2ee02710f70746b6aa2acbe11a1f7, type: 3}
+  Prefab: {fileID: 100096, guid: 320b1c2af77554f99a1658df4a6d3d5c, type: 3}
+  config: {fileID: 11400000, guid: fb73087a291b08f4ba38d548c2825305, type: 2}
